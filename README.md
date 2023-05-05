@@ -1,0 +1,1 @@
+# csgopolygon-color-predict
