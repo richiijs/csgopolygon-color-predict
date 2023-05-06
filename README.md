@@ -1,6 +1,6 @@
 # ✨ CSGOPOLYGON COLOR PREDICT SCRIPT ✨
 A simple script to predict the color on CSGOPolygon roulette
-
+<img width="758" alt="image" src="https://i.imgur.com/6k7tufL.png">
 # HOW TO USE
 1. Click right mouse button
 2. Click on "Inspect element"
